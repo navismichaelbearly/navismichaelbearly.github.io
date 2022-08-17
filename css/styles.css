@@ -11081,7 +11081,7 @@ html {
 @media (min-width: 576px) {
   .profile {
     height: 60vw;
-    width: 60vw;
+    width: 49vw;
   }
   .profile .profile-img {
     height: 65vw;
@@ -11106,7 +11106,7 @@ html {
 @media (min-width: 768px) {
   .profile {
     height: 50vw;
-    width: 50vw;
+    width: 41vw;
   }
   .profile .profile-img {
     height: 55vw;
@@ -11131,7 +11131,7 @@ html {
 @media (min-width: 992px) {
   .profile {
     height: 40vw;
-    width: 40vw;
+    width: 34vw;
   }
   .profile .profile-img {
     height: 45vw;
@@ -11156,7 +11156,7 @@ html {
 @media (min-width: 1200px) {
   .profile {
     height: 35vw;
-    width: 35vw;
+    width: 30vw;
   }
   .profile .profile-img {
     height: 40vw;
